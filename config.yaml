@@ -1,0 +1,7 @@
+video_source:
+  type: 'file'  # webcam, file, ip_camera
+  value: "D:\\facerecvideos\\2024-07-03 18-24-43.mp4"
+
+bbox_color: [0, 0, 170]  # Цвет рамки
+blur_method: 'gaussian'  # блюр или пикселизация
+show_fps: true
